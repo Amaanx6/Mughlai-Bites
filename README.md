@@ -2,7 +2,7 @@
 # Mughlai Bites 🍢
 
 **Mughlai Bites** is a **food delivery web application** focused on **Mughlai cuisine** — Kebabs, Korma, Nihari, Tandoori dishes.  
-Built as a **college project**, it demonstrates a **fully functional frontend** with **Next.js**, **shadcn/ui**, **Tailwind CSS**, and **mock state management**.  
+Built as a **college project**, it demonstrates a **fully functional frontend** with **Next.js**, **shadcn/ui**, **Tailwind CSS**, and **state management**.  
 
 This app includes a **working cart, checkout flow, and admin dashboard**
 
