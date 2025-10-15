@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Chicken Korma",
+    "category": "Korma",
+    "price": 350,
+    "rating": 4.8,
+    "image": "/images/dishes/chicken-korma.jpg",
+    "spiceLevel": "Medium",
+    "description": "Rich Mughlai chicken curry simmered in spices and cream."
+  },
+  {
+    "id": 2,
+    "name": "Seekh Kebabs",
+    "category": "Kebabs",
+    "price": 280,
+    "rating": 4.5,
+    "image": "/images/dishes/seekh-kebabs.jpg",
+    "spiceLevel": "Spicy",
+    "description": "Juicy minced meat skewers grilled to perfection."
+  },
+  {
+    "id": 3,
+    "name": "Mutton Nihari",
+    "category": "Nihari",
+    "price": 420,
+    "rating": 4.7,
+    "image": "/images/dishes/mutton-nihari.jpg",
+    "spiceLevel": "Medium",
+    "description": "Slow-cooked mutton stew with deep flavors."
+  },
+  {
+    "id": 4,
+    "name": "Paneer Tikka",
+    "category": "Tandoori",
+    "price": 260,
+    "rating": 4.4,
+    "image": "/images/dishes/paneer-tikka.jpg",
+    "spiceLevel": "Mild",
+    "description": "Charred paneer cubes marinated in spices."
+  },
+  {
+    "id": 5,
+    "name": "Butter Naan",
+    "category": "Breads",
+    "price": 60,
+    "rating": 4.3,
+    "image": "/images/dishes/butter-naan.jpg",
+    "spiceLevel": "Mild",
+    "description": "Soft leavened bread with butter."
+  },
+  {
+    "id": 6,
+    "name": "Chicken Biryani",
+    "category": "Rice",
+    "price": 320,
+    "rating": 4.6,
+    "image": "/images/dishes/chicken-biryani.jpg",
+    "spiceLevel": "Spicy",
+    "description": "Fragrant basmati rice with marinated chicken."
+  },
+  {
+    "id": 7,
+    "name": "Galouti Kebab",
+    "category": "Kebabs",
+    "price": 340,
+    "rating": 4.8,
+    "image": "/images/dishes/galouti-kebab.jpg",
+    "spiceLevel": "Medium",
+    "description": "Melt-in-mouth kebabs with royal spices."
+  },
+  {
+    "id": 8,
+    "name": "Reshmi Kebab",
+    "category": "Kebabs",
+    "price": 300,
+    "rating": 4.5,
+    "image": "/images/dishes/reshmi-kebab.jpg",
+    "spiceLevel": "Mild",
+    "description": "Creamy tender kebabs with mild spices."
+  }
+]
