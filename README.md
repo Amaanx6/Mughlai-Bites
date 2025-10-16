@@ -1,4 +1,4 @@
-# Mughlai Bites 🍢
+# Food Delivery System In Mughlai Bites 🍢
 
 **Mughlai Bites** is a **mock food delivery web application** focused on traditional Mughlai cuisine, including Kebabs, Korma, Nihari, and Tandoori dishes.
 This project demonstrates **modern web development practices** using **Next.js, Tailwind CSS, Shadcn UI**, and **mock state management**, suitable for a college project.
